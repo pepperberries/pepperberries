@@ -2579,7 +2579,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em;
+		padding: 12em 0 4em;
 		position: fixed;
 		text-align: right;
 		top: 0;
@@ -2964,7 +2964,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 6em 3em 3em 3em;
+				padding: 12em 3em 3em 3em;
 				width: 30%;
 			}
 
