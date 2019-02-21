@@ -2572,14 +2572,14 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/pepperberriesShop.jpg");
+		background-image: url("images/overlay.png"), url("../../images/pepperberries-shop-fall.jpg");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 12em 0 4em;
+		padding: 12em 4em 4em;
 		position: fixed;
 		text-align: left;
 		top: 0;
@@ -2964,7 +2964,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 12em 3em 3em 3em;
+				padding: 10em 3em 3em 3em;
 				width: 30%;
 			}
 
